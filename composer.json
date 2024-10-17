@@ -15,7 +15,6 @@
             "email": "shanaszaid@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "guzzlehttp/guzzle": "^7.9",
         "illuminate/support": "^11.28"
