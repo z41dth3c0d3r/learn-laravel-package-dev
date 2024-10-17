@@ -6,7 +6,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Zaid\\LearnLaravelPackatgeDev\\": "src/"
+            "Zaid\\Inspire\\": "src/"
         }
     },
     "authors": [
@@ -17,6 +17,7 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "guzzlehttp/guzzle": "^7.9"
+        "guzzlehttp/guzzle": "^7.9",
+        "illuminate/support": "^11.28"
     }
 }
