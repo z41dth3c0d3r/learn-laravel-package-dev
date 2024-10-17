@@ -1,0 +1,22 @@
+{
+    "name": "zaid/learn-laravel-packatge-dev",
+    "description": "Test package to learn laravel package development",
+    "version": "1.0.0",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Zaid\\LearnLaravelPackatgeDev\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mohamed Zaid",
+            "email": "shanaszaid@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "guzzlehttp/guzzle": "^7.9"
+    }
+}
